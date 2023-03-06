@@ -1,0 +1,31 @@
+.wrappersmed {
+  border: 3px solid brown;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-botom: 5px;
+}
+.wrapperzelen {
+  border: 3px solid green;
+  padding: 5px 5px 5px 5px;
+}
+.navigacija {
+  flex-direction: column;
+  justify-content: flex-start;
+  display: flex;
+  align-items: stretch;
+  align-content: center;
+}
+.wrapperplav {
+  border: 3px solid lightblue;
+  padding-top: 1px;
+  padding-left: 15px;
+  padding-botom: 5px;
+  padding-right: 15px;
+  margin-bottom: 20px;
+}
+.wrapperorang {
+  border: 2px dashed orange;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
